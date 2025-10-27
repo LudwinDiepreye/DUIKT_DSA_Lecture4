@@ -6,7 +6,7 @@ import java.util.Collections;
 /// Write a program to find the kth smallest element in an ArrayList.
 public class Problem9 {
     public static void main(String[] args) {
-        ArrayList<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<>();
         list.add(4);
         list.add(2);
         list.add(1);
